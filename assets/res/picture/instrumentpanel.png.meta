@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cda64b6d-a840-4a36-be0d-79c611237b01",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "instrumentpanel": {
+      "ver": "1.0.3",
+      "uuid": "1bcb41cc-537f-4402-b810-54b85ea30b7d",
+      "rawTextureUuid": "cda64b6d-a840-4a36-be0d-79c611237b01",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -3,
+      "trimX": 34,
+      "trimY": 36,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 194,
+      "rawHeight": 194,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

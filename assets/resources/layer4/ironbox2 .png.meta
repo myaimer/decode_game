@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5a6bf72d-f000-44c4-9e14-743fc1a03439",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ironbox2 ": {
+      "ver": "1.0.3",
+      "uuid": "87531943-596a-40fd-a067-b87ba81a64c5",
+      "rawTextureUuid": "5a6bf72d-f000-44c4-9e14-743fc1a03439",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -29,
+      "offsetY": 1,
+      "trimX": 44,
+      "trimY": 1,
+      "width": 488,
+      "height": 503,
+      "rawWidth": 634,
+      "rawHeight": 507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
